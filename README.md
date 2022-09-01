@@ -43,7 +43,7 @@
       이름<input type="text" id ="name">
     </label>
     
-###2. input 태그
+### 2. input 태그
 - input 태그는 사용자로부터 정보를 입력받을 수 있게 해주는 태그
 - type 속성에 따라 다양한 입력 양식을 사용할 수 있음
 ```html
